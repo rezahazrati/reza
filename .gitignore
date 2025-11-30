@@ -1,0 +1,32 @@
+# log files
+*.log
+logs/
+
+# enviromental files
+.env
+.env.local
+
+# dependencies folder
+node_modules/
+vendor/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# compiled files
+*.class
+*.exe
+*.dll
+
+# temproray files
+*.tmp
+temp/
+tmp/
+
+# ideolift files
+.idea/
+.vscode/temp_files/
+*.txt
+.env
+*.log
